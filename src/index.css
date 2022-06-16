@@ -12,7 +12,6 @@
 
 :root {
     --color-bg: black;
-    --color-bg-variant: #2c2c6c;
     --color-primary: #4db5ff;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #3a87a1;
@@ -72,7 +71,7 @@ section > h5 {
 }
 
 section > h2 {
-    color: var(--color-primary);
+    color: var(--color-white);
     margin-bottom: 3rem;
 }
 
@@ -81,7 +80,7 @@ section > h2 {
 }
 
 a {
-    color: var(--color-primary);
+    color: var(--color-white);
     transition: var(--transition);
 }
 
@@ -92,11 +91,11 @@ a:hover {
 .btn {
     width: max-content;
     display: inline-block;
-    color: var(--color-primary);
+    color: var(--color-white);
     padding: 0.75rem 1.2rem;
     border-radius: 0.4rem;
     cursor: pointer;
-    border: 1px solid var(--color-primary);
+    border: 1px solid var(--color-white);
     transition: var(--transition);
 }
 
@@ -123,9 +122,6 @@ img {
     .container {
         width: var(--container-width-md);
     }
-    section {
-        margin-top: 6rem;
-    }
 }
 
 /* =========================================== MEDIA QUERIES (SMALL SIZED SCREENS) =========================================== */
@@ -134,7 +130,9 @@ img {
     .container {
         width: var(--container-width-sm);
     }
-    section > h2 {
-        margin-top: 2rem;
+    .header__social,
+    .scroll__down,
+    img {
+        display: none;
     }
 }
