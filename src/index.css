@@ -132,8 +132,7 @@ img {
         width: var(--container-width-sm);
     }
     .header__social,
-    .scroll__down,
-    img {
+    .scroll__down {
         display: none;
     }
 }
