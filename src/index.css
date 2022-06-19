@@ -135,4 +135,7 @@ img {
     .scroll__down {
         display: none;
     }
+    .me {
+        display: none;
+    }
 }
