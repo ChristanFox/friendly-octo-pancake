@@ -12,10 +12,11 @@
 
 :root {
     --color-bg: black;
+    --color-bg-variant: #06232c;
     --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-primary-variant: #4db5ff66;
     --color-white: #3a87a1;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: #ffffff99;
 
     --transition: all 400ms ease;    
 
@@ -62,7 +63,6 @@ h1 {
 
 section {
     margin-top: 8rem;
-    height: 100vh;
 }
 
 section > h2,
