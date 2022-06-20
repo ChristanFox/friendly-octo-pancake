@@ -18,9 +18,9 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com"><AiOutlineFacebook/></a>
-        <a href="https://instagram.com"><GrInstagram/></a>
-        <a href="https://twitter.com"><RiTwitterLine/></a>
+        <a href="https://www.facebook.com/ChristanFox/"><AiOutlineFacebook/></a>
+        <a href="https://www.instagram.com/chrislfox.90/"><GrInstagram/></a>
+        <a href="https://twitter.com/ChristanFox"><RiTwitterLine/></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Christan Fox. All rights reserved</small>

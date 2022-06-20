@@ -38,7 +38,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi amet repellat molestias quos totam.
+            Hello World! I am a 31 year old aspiring web developer currently living in Hillside, NJ. 
+            Having recently graduated from A Full stack development coding bootcamp through Rutgers University, I am looking to change careers.
           </p>
 
           <a href="#contact" onClick={() => setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}>Let's Talk</a>
