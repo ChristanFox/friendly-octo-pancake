@@ -24,7 +24,7 @@ const data = [
     title: 'Lazy Date',
     reqs: 'Handlebars, CSS, JS',
     github: 'https://github.com/njacques47/lazy-date',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://njacques47.github.io/lazy-date/'
   },
   {
     id: 3,
