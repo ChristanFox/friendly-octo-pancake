@@ -4,8 +4,7 @@
     <img src="https://img.shields.io/github/repo-size/ChristanFox/friendly-octo-pancake" />
     <img src="https://img.shields.io/github/languages/count/ChristanFox/friendly-octo-pancake"  />
     <img src="https://img.shields.io/badge/license-MPL--2.0-orange" />
-    <img src="https://img.shields.io/github/last-commit/ChristanFox/
-friendly-octo-pancake" >
+    <img src="https://img.shields.io/github/last-commit/ChristanFox/friendly-octo-pancake" >
     <a href="https://github.com/ChristanFox"><img src="https://img.shields.io/github/followers/ChristanFox?style=social" target="_blank" /></a>
     <a href="https://twitter.com/ChristanFox">
         <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/ChristanFox.svg?style=social" target="_blank" />
