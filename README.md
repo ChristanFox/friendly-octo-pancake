@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="./src/assets/react-logo.svg" />
+</p>
 <h1 align="center"> Personal React Portfolio 👋</h1>
   
 <p align="center">
