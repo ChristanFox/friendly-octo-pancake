@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/last-commit/ChristanFox/friendly-octo-pancake" >
     <a href="https://github.com/ChristanFox"><img src="https://img.shields.io/github/followers/ChristanFox?style=social" target="_blank" /></a>
     <a href="https://twitter.com/ChristanFox">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/ChristanFox.svg?style=social" target="_blank" />
+        <img alt="Twitter: christanfox" src="https://img.shields.io/twitter/follow/ChristanFox.svg?style=social" target="_blank" />
     </a>
 </p>
   
