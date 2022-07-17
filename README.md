@@ -1,10 +1,8 @@
 <h1 align="center"> Personal React Portfolio 👋</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/ChristanFox/
-friendly-octo-pancake" />
-    <img src="https://img.shields.io/github/languages/top/
-friendly-octo-pancake"  />
+    <img src="https://img.shields.io/github/repo-size/ChristanFox/friendly-octo-pancake" />
+    <img src="https://img.shields.io/github/languages/count/ChristanFox/friendly-octo-pancake"  />
     <img src="https://img.shields.io/github/issues/ChristanFox/
 friendly-octo-pancake" />
     <img src="https://img.shields.io/github/last-commit/ChristanFox/
